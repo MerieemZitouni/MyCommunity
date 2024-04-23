@@ -1,6 +1,6 @@
-# flutter_application_1
+# MyCommunity
 
-A new Flutter project.
+MyCommunity is a lightweight mobile application designed to facilitate social networking and communication within small communities or close-knit groups. It provides essential features for sharing updates, photos, and engaging in conversations with simplicity and convenience..
 
 ## Getting Started
 
